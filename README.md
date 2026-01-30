@@ -24,3 +24,10 @@ Este projeto apresenta a modelagem de um grafo para um serviço de streaming uti
 
 O modelo permite representar usuários assistindo filmes e séries, avaliando-os, além de relacionar atores, diretores e gêneros aos conteúdos disponíveis na plataforma.
 
+▶️ Execução
+
+1. Abra o Neo4j Browser ou Neo4j Desktop
+2. Copie o conteúdo do arquivo `streaming_graph.cypher`
+3. Execute o script para criar constraints e popular o banco de dados
+
+
