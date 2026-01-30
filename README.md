@@ -24,10 +24,3 @@ Este projeto apresenta a modelagem de um grafo para um serviço de streaming uti
 
 O modelo permite representar usuários assistindo filmes e séries, avaliando-os, além de relacionar atores, diretores e gêneros aos conteúdos disponíveis na plataforma.
 
-▶️ Execução
-
-
-
----
-
-Projeto desenvolvido para fins acadêmicos.
